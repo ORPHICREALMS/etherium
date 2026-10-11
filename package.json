@@ -1,0 +1,10 @@
+{
+  "name": "etherion-server",
+  "version": "0.2.5",
+  "private": true,
+  "description": "Age of Etherion multiplayer relay and game host",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
